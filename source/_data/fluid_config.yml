@@ -39,10 +39,6 @@ links:
       intro: 主题 GitHub 仓库
       link: https://github.com/fluid-dev/hexo-theme-fluid
       avatar: /img/favicon.png
-    - title: 暮雨千泷
-      intro: 青天白日梦神仙
-      link: https://www.myql.xyz
-      avatar: https://cdn.jsdelivr.net/gh/leicancun/img@main/images/avatar.webp
     - title: Overleaf
       intro: Tetryl' private latex
       link: http://47.108.91.115:8080/project
