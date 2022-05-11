@@ -6,7 +6,7 @@ index:
   banner_img: /images/uploads/background.webp
   banner_img_height: 100
   slogan:
-    text: Hello, this is Tetryl
+    text: Hello, this is Tetryl !
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
   banner_img_height: 70
@@ -25,11 +25,11 @@ tag:
   subtitle: null
 about:
   banner_img: /images/uploads/wallhaven-pkkr2.webp
-  banner_img_height: 80
+  banner_img_height: 74
   subtitle: null
-  avatar: /img/avatar.png
+  avatar: https://img.syt5.com/2020/0901/20200901102746916.jpg
   name: Tetryl
-  intro: 知识分享
+  intro: Removing the barriers to the knowledge
 links:
   banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
   banner_img_height: 80
