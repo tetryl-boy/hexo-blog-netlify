@@ -1,6 +1,5 @@
 ---
 title: shuoshuo
-layout: talking
 date: 2022-05-11 21:54:42
 ---
 <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
