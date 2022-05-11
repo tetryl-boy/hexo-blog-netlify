@@ -1,6 +1,7 @@
 ---
 title: shuoshuo
 date: 2022-05-11 21:54:42
+layout: talking
 ---
 <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
 <div id="artitalk_main"></div> // 存放说说列表的容器
