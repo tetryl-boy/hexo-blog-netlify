@@ -1,0 +1,45 @@
+navbar:
+  blog_title: Tetryl
+  ground_glass:
+    enable: true
+index:
+  banner_img: /images/uploads/background.webp
+  banner_img_height: 100
+  slogan:
+    text: Hello, this is Tetryl
+post:
+  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img_height: 70
+  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+archive:
+  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img_height: 80
+  subtitle: null
+category:
+  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img_height: 80
+  subtitle: null
+tag:
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img_height: 80
+  subtitle: null
+about:
+  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img_height: 80
+  subtitle: null
+  avatar: /img/avatar.png
+  name: Tetryl
+  intro: 知识分享
+links:
+  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img_height: 80
+  subtitle: null
+  items:
+    - title: Fluid Repo
+      intro: 主题 GitHub 仓库
+      link: https://github.com/fluid-dev/hexo-theme-fluid
+      avatar: /img/favicon.png
+    - title: Overleaf
+      intro: Tetryl' private latex
+      link: http://47.108.91.115:8080/project
+      avatar: https://avatars.githubusercontent.com/u/6359919?s=64&v=4
