@@ -9,7 +9,7 @@ layout: talking
   new Artitalk({
     appId: 'mzbOQCaDW7JLeM8TfnpQmXmv-gzGzoHsz',
     appKey: 'aGqp64645mekjXkwFCbKXJ3s'
-    serverURLs: 'https://mzboqcad.lc-cn-n1-shared.com'
+    serverURL: 'https://mzboqcad.lc-cn-n1-shared.com'
   })
 </script>
 
