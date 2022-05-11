@@ -1032,3 +1032,5 @@ static_prefix:
   twikoo: https://cdn.jsdelivr.net/npm/twikoo@1/dist/
 
   hint: https://cdn.jsdelivr.net/npm/hint.css@2/
+  
+  artitalk: https://cdn.staticaly.com/gh/spaceskynet/Artitalk/master/dist/js/
